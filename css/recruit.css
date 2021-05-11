@@ -139,7 +139,7 @@
   .member {
     display: flex;
     width: 100%;
-    margin-left: 30px;
+    margin: 0 auto;
     
   }
   
@@ -218,7 +218,7 @@
   }
 
   .discussion_talk {
-    margin-bottom: 150px;
+    margin: 70px;
     padding: 100px 100px 150px;
     background-color: #f0f8ff;
   }
